@@ -1,5 +1,4 @@
-# John Mark E. Flameño 
-## Full Stack Developer
+# John Mark E. Flameño - Full Stack Developer
 
 I am a Graduating IT Student specializing in web and mobile application development. I am looking for a freelance project or work where I can apply my knowledge, gain practical experience, and contribute to projects. I am eager to learn, improve my problem-solving skills, and work with a team to develop useful applications.
 
@@ -7,8 +6,7 @@ I am a Graduating IT Student specializing in web and mobile application developm
 [![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:johnmarkflameno@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](https://johnmarkflameno.onrender.com/)
 
-## Technologies
-
+Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -19,7 +17,6 @@ I am a Graduating IT Student specializing in web and mobile application developm
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
-## GitHub Stats
 ![John Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJaem31&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaem31&layout=compact&theme=radical)
 
