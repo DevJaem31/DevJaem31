@@ -1,5 +1,4 @@
-## Hi there 👋
-
+### John Mark E. Flameño 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
