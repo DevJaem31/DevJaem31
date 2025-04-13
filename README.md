@@ -41,9 +41,11 @@ I am eager to learn, improve my problem-solving skills, and work with a team to 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevJaem31&show_icons=true&theme=radical" width="400" />
-  <br>
-  <hr>
-  <br>
+</p>
+
+<hr>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaem31&layout=compact&theme=radical" width="400" />
 </p>
 
