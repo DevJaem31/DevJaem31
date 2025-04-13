@@ -20,8 +20,8 @@ I am a Graduating IT Student specializing in web and mobile application developm
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ## GitHub Stats
-![John Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmarkflameno&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarkflameno&layout=compact&theme=radical)
+![John Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevJaem31&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJaem31&layout=compact&theme=radical)
 
 ## Let's Connect!
 Feel free to reach out for collaborations, freelance opportunities, or just to say hi. I'm always open to meaningful conversations and new challenges.
