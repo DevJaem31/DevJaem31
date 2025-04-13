@@ -18,12 +18,13 @@ I am eager to learn, improve my problem-solving skills, and work with a team to 
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square" />
   </a>
 </p>
+
 ---
 
 <br>
 <br>
 
-## Technologies
+<h3 align="center">Technologies</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -42,7 +43,7 @@ I am eager to learn, improve my problem-solving skills, and work with a team to 
 <br>
 <br>
 
-## GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevJaem31&show_icons=true&theme=radical" width="400" />
@@ -59,7 +60,7 @@ I am eager to learn, improve my problem-solving skills, and work with a team to 
 <br>
 <br>
 
-## Let's Connect!
+<h3 align="center">Let's Connect!</h3>
 
 <p align="center">
   Feel free to reach out for collaborations, freelance opportunities, or just to say hi.<br>
