@@ -18,8 +18,10 @@ I am eager to learn, improve my problem-solving skills, and work with a team to 
     <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square" />
   </a>
 </p>
-
 ---
+
+<br>
+<br>
 
 ## Technologies
 
@@ -37,6 +39,9 @@ I am eager to learn, improve my problem-solving skills, and work with a team to 
 
 ---
 
+<br>
+<br>
+
 ## GitHub Stats
 
 <p align="center">
@@ -50,6 +55,9 @@ I am eager to learn, improve my problem-solving skills, and work with a team to 
 </p>
 
 ---
+
+<br>
+<br>
 
 ## Let's Connect!
 
